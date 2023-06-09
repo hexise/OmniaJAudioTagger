@@ -1,5 +1,5 @@
 # OmniaJAudioTagger
-A modified version of JAudioTagger library for Omnia Music Player.
+A modified version of JAudioTagger library for Omnia Music Player, it is based on JAudioTagger version 2.2.6.
 
 ## Changes
 The main goal for this library is to support document API since Android 11 (API Level 30).
