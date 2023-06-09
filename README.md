@@ -1,4 +1,4 @@
-# JAudioTagger
+# OmniaJAudioTagger
 A modified version of JAudioTagger library for Omnia Music Player.
 
 ## Changes
